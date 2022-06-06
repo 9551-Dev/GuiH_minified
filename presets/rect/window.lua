@@ -1,0 +1,2 @@
+return
+function(e,t)return{top_left={sym=" ",bg=e,fg=t},top_right={sym=" ",bg=e,fg=t},bottom_left={sym=" ",bg=t,fg=e},bottom_right={sym=" ",bg=t,fg=e},side_left={sym=" ",bg=t,fg=e},side_right={sym=" ",bg=t,fg=e},side_top={sym=" ",bg=e,fg=t},side_bottom={sym=" ",bg=t,fg=e},inside={sym=" ",bg=t,fg=e},}end
